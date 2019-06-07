@@ -1,0 +1,4 @@
+# fullstack
+
+Run:
+npm install
